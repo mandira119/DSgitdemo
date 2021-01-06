@@ -1,2 +1,3 @@
-# DSgitdemo
-demo
+#DSgitdemo
+
+print("WELCOME TO DSgitdemo")
